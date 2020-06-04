@@ -2,8 +2,8 @@
 
 ## 8-12 June 2020 @ Zoom
   https://rediris.zoom.us/j/99594075110?pwd=Y0dFcTVZWFFqb0xUQm41NWpweWs5dz09
-  Meeting ID: 995 9407 5110
-  Password: 842832
+  - Meeting ID: 995 9407 5110
+  - Password: 842832
 
 This is the main page for the course "Intelligence artificielle pour l'astrophysique à l'époque du big-data" at the Ecole Doctorale ED-127. The course will consist of lecutres in the mornings followed by tuorial sessions in the afternoons.
 
